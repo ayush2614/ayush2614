@@ -35,17 +35,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayush2614&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2614&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -81,16 +70,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -99,11 +78,11 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/ayushpratap26/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:ayushpratap2614@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
 </a>
 
