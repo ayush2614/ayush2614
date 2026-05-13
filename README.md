@@ -1,109 +1,80 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ayush%20Pratap%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
-# 👋 Hi, I'm Ayush Pratap Singh
-
-### 💻 Full Stack Learner | 🚀 Developer | 🧠 Problem Solver
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C+%7C+C%2B%2B+%7C+Python+%7C+Java;HTML+%7C+CSS+%7C+JavaScript;MySQL+%7C+Oracle+%7C+PostgreSQL;Flask+Developer;Building+Real+World+Projects" />
-
-</div>
+<h1 align="center">Hi 👋, I'm Ayush Pratap Singh</h1>
+<h3 align="center">Software Developer | Full Stack Web Developer | Python & Flask Enthusiast</h3>
 
 ---
 
-## 🌌 About Me
+## 👨‍💻 About Me
 
-<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I am a Software Developer passionate about building scalable web applications, backend systems, and practical technology solutions.
 
-* 🎓 MCA Student passionate about development
-* 💻 Strong in **C, C++, Python, Java**
-* 🌐 Building projects using **HTML, CSS, JavaScript & Flask**
-* 🛢️ Experienced with **MySQL, Oracle, PostgreSQL**
-* 🔥 Love creating real-world applications
-* 📈 Goal: Become a Full Stack Developer
-
----
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,mysql,postgres,git,github,vscode&theme=dark" />
-
-</div>
+- 🎓 MCA Graduate
+- 💻 Skilled in Python, Java, C/C++, HTML, CSS, JavaScript
+- ⚙️ Experienced with Flask, MySQL, PostgreSQL, Oracle, and REST APIs
+- 🚀 Building real-world projects with clean UI and strong backend logic
+- 🎯 Interested in Software Development, Backend Development, Full Stack Development, and Python Development
 
 ---
 
-## 🔥 GitHub Streak
+## 🛠 Tech Stack
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ayush2614&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,flask,mysql,postgres,git,github,vscode" />
+</p>
 
 ---
 
-## 🧠 Skills
+## 🚀 Featured Projects
 
-```text
-✔ Problem Solving  
-✔ Web Development  
-✔ Backend Development (Flask)  
-✔ Database Management  
-✔ CRUD Applications  
-✔ API Integration  
-```
+### 🔹 Smart Staff Management System
+A full-stack employee management system with admin/employee login, attendance tracking, leave management, payroll automation, and dashboard analytics.  
+**Tech:** Python, Flask, MySQL, HTML, CSS, JavaScript
+
+### 🔹 Smart Weather & Location Insight App
+A modern weather application with live weather data, map integration, location search, and responsive UI.  
+**Tech:** HTML, CSS, JavaScript, APIs, GitHub Pages
+
+### 🔹 Loan Prediction System
+A machine learning project for loan approval prediction using data preprocessing, model training, and prediction workflow.  
+**Tech:** Python, Pandas, Scikit-learn, Flask
 
 ---
 
-## 🧩 Projects
+## 📌 Core Skills
 
-✨ Some of my best works:
+- Backend Development  
+- Web Development  
+- Database Management  
+- REST API Integration  
+- CRUD Applications  
+- Machine Learning Basics  
+- Git & GitHub  
+- Problem Solving  
 
-* 🌦️ Weather App (Flask + API)
-* 🔐 Login/Register System with Authentication
-* 📝 CRUD Web Apps
-* 📊 Database Connected Systems
-* 📷 Image Upload Web App
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush2614&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2614&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/ayush2614">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/ayushpratap26/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:ayushpratap2614@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-</a>
-
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ayushpratap26">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Pratap%20Singh-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://ayush2614.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-red?style=for-the-badge&logo=google-chrome" />
+  </a>
+</p>
 
 ---
 
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ayush2614&label=Profile%20Views&color=00F7FF&style=flat" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ “Code Hard. Dream Big. Build Something Amazing.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
-
-</div>
+<h3 align="center">“Build. Learn. Improve. Repeat.”</h3>
