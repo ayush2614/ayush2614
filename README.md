@@ -1,80 +1,119 @@
-<h1 align="center">Hi 👋, I'm Ayush Pratap Singh</h1>
-<h3 align="center">Software Developer | Full Stack Web Developer | Python & Flask Enthusiast</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ayush%20Pratap%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+# 👋 Hi, I'm Ayush Pratap Singh
+
+### 💻 Software Developer | 🚀 Full Stack Web Developer | 🧠 Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+%7C+Java+%7C+C+%7C+C%2B%2B;HTML+%7C+CSS+%7C+JavaScript;Flask+%7C+MySQL+%7C+PostgreSQL+%7C+Oracle;Building+Real-World+Applications;Backend+Development+%7C+REST+APIs+%7C+Machine+Learning" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🌌 About Me
 
-I am a Software Developer passionate about building scalable web applications, backend systems, and practical technology solutions.
+<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 MCA Graduate
-- 💻 Skilled in Python, Java, C/C++, HTML, CSS, JavaScript
-- ⚙️ Experienced with Flask, MySQL, PostgreSQL, Oracle, and REST APIs
-- 🚀 Building real-world projects with clean UI and strong backend logic
-- 🎯 Interested in Software Development, Backend Development, Full Stack Development, and Python Development
+- 💻 Skilled in **Python, Java, C, C++**
+- 🌐 Building web applications using **HTML, CSS, JavaScript & Flask**
+- 🛢️ Experienced with **MySQL, PostgreSQL, Oracle**
+- ⚙️ Interested in **Backend Development, Full Stack Development & Software Engineering**
+- 🚀 Open to **Software Developer / Python Developer / Full Stack opportunities**
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,flask,mysql,postgres,git,github,vscode" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,flask,mysql,postgres,git,github,vscode&theme=dark" />
 
-## 🚀 Featured Projects
-
-### 🔹 Smart Staff Management System
-A full-stack employee management system with admin/employee login, attendance tracking, leave management, payroll automation, and dashboard analytics.  
-**Tech:** Python, Flask, MySQL, HTML, CSS, JavaScript
-
-### 🔹 Smart Weather & Location Insight App
-A modern weather application with live weather data, map integration, location search, and responsive UI.  
-**Tech:** HTML, CSS, JavaScript, APIs, GitHub Pages
-
-### 🔹 Loan Prediction System
-A machine learning project for loan approval prediction using data preprocessing, model training, and prediction workflow.  
-**Tech:** Python, Pandas, Scikit-learn, Flask
-
----
-
-## 📌 Core Skills
-
-- Backend Development  
-- Web Development  
-- Database Management  
-- REST API Integration  
-- CRUD Applications  
-- Machine Learning Basics  
-- Git & GitHub  
-- Problem Solving  
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush2614&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2614&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ayush2614&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=ayush2614&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2614&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧠 Core Skills
+
+```text
+✔ Problem Solving
+✔ Full Stack Web Development
+✔ Backend Development
+✔ Flask Development
+✔ REST API Integration
+✔ Database Management
+✔ CRUD Applications
+✔ Machine Learning
+✔ Git & GitHub
+```
+
+---
+
+## 🧩 Featured Projects
+
+✨ Some of my best works:
+
+- 🚀 Smart Staff Management System
+- 🌦 Smart Weather & Location Insight App
+- 🤖 Loan Prediction System
+- 🌐 Personal Portfolio Website
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayushpratap26">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Pratap%20Singh-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://ayush2614.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-red?style=for-the-badge&logo=google-chrome" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ayushpratap26/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:ayushpratap2614@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://ayush2614.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<h3 align="center">“Build. Learn. Improve. Repeat.”</h3>
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ayush2614&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Build. Learn. Improve. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+
+</div>
